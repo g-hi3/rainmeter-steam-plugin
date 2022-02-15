@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamFileReader", "SteamFileReader\SteamFileReader.csproj", "{7D48065C-6097-4E29-B57E-63E57C46EB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamFileReader.Tests", "SteamFileReader.Tests\SteamFileReader.Tests.csproj", "{861373B5-0D1A-47BC-912F-93EC17A85138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamFileReader.IntegrationTests", "SteamFileReader.IntegrationTests\SteamFileReader.IntegrationTests.csproj", "{2C95D8D3-AD6D-4465-AC19-44EB3A4CE2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamPlugin", "SteamPlugin\SteamPlugin.csproj", "{7D3B15CE-8997-4958-B5C9-2390466426C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rainmeter", "Rainmeter\Rainmeter.csproj", "{2F81A2E2-5ED4-4EE2-AB7D-87EAAEFBB219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D48065C-6097-4E29-B57E-63E57C46EB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D48065C-6097-4E29-B57E-63E57C46EB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D48065C-6097-4E29-B57E-63E57C46EB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D48065C-6097-4E29-B57E-63E57C46EB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861373B5-0D1A-47BC-912F-93EC17A85138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861373B5-0D1A-47BC-912F-93EC17A85138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861373B5-0D1A-47BC-912F-93EC17A85138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861373B5-0D1A-47BC-912F-93EC17A85138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C95D8D3-AD6D-4465-AC19-44EB3A4CE2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C95D8D3-AD6D-4465-AC19-44EB3A4CE2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C95D8D3-AD6D-4465-AC19-44EB3A4CE2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C95D8D3-AD6D-4465-AC19-44EB3A4CE2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3B15CE-8997-4958-B5C9-2390466426C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3B15CE-8997-4958-B5C9-2390466426C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3B15CE-8997-4958-B5C9-2390466426C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3B15CE-8997-4958-B5C9-2390466426C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F81A2E2-5ED4-4EE2-AB7D-87EAAEFBB219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F81A2E2-5ED4-4EE2-AB7D-87EAAEFBB219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F81A2E2-5ED4-4EE2-AB7D-87EAAEFBB219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F81A2E2-5ED4-4EE2-AB7D-87EAAEFBB219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
